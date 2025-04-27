@@ -173,3 +173,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+/Users/choiminsoo/Desktop/git/streamlit-first/pages/01_summary.py
+
+/Users/choiminsoo/Desktop/git/streamlit-first/pages/02_preferences.py
