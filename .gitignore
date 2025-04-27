@@ -174,4 +174,4 @@ cython_debug/
 .pypirc
 
 pages/01_summary.py
-.02_preferences.py
+pages/02_preferences.py
