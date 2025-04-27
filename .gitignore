@@ -173,5 +173,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-.01_summary.py
+pages/01_summary.py
 .02_preferences.py
